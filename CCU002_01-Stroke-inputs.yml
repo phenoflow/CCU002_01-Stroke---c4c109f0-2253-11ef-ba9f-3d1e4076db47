@@ -1,0 +1,126 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-stroke-hmorrhage---secondary.py
+inputModule3:
+  class: File
+  path: python/haemorrhagic-ccu002_01-stroke---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-stroke-cereb---secondary.py
+inputModule5:
+  class: File
+  path: python/ischemic-ccu002_01-stroke---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-stroke-tia---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-stroke-occlus---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-stroke---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu002_01-stroke-foville---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-stroke-millardgubler---secondary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-stroke-webergubler---secondary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-stroke-precerebr---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-stroke-sensory---secondary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-stroke-infarct---secondary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-stroke-pathology---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu002_01-stroke-motor---secondary.py
+inputModule17:
+  class: File
+  path: python/vertebrobasilar-ccu002_01-stroke---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu002_01-stroke-puerperium---secondary.py
+inputModule19:
+  class: File
+  path: python/right-ccu002_01-stroke---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-stroke-brainstem---secondary.py
+inputModule21:
+  class: File
+  path: python/ccu002_01-stroke-infarctn---secondary.py
+inputModule22:
+  class: File
+  path: python/subcortical-ccu002_01-stroke---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-stroke-steno---secondary.py
+inputModule24:
+  class: File
+  path: python/carotid-ccu002_01-stroke---secondary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-stroke-lacunar---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-stroke-ganglia---secondary.py
+inputModule27:
+  class: File
+  path: python/ccu002_01-stroke-claude's---secondary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-stroke-occlusn---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-stroke-excepted---secondary.py
+inputModule30:
+  class: File
+  path: python/ccu002_01-stroke-review---secondary.py
+inputModule31:
+  class: File
+  path: python/ccu002_01-stroke-indicator---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-stroke-monitoring---secondary.py
+inputModule33:
+  class: File
+  path: python/ccu002_01-stroke-sided---secondary.py
+inputModule34:
+  class: File
+  path: python/ccu002_01-stroke-history---secondary.py
+inputModule35:
+  class: File
+  path: python/ccu002_01-stroke-wallenberg---secondary.py
+inputModule36:
+  class: File
+  path: python/ccu002_01-stroke-syndrome---secondary.py
+inputModule37:
+  class: File
+  path: python/ccu002_01-stroke-improvement---secondary.py
+inputModule38:
+  class: File
+  path: python/ccu002_01-stroke-selfmanagement---secondary.py
+inputModule39:
+  class: File
+  path: python/ccu002_01-stroke-amnesia---secondary.py
+inputModule40:
+  class: File
+  path: python/ccu002_01-stroke-insufficiency---secondary.py
+inputModule41:
+  class: File
+  path: python/ccu002_01-stroke-fugax---secondary.py
+inputModule42:
+  class: File
+  path: python/output-cases.py
